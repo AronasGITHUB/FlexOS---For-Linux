@@ -1,3 +1,4 @@
+Newest version:
 FlexOS, Develepors beta 1.0
 Installation instructions:
 Open your terminal, and change directories from home directory to flexos directory.
